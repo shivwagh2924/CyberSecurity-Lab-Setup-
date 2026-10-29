@@ -147,9 +147,11 @@ Disk:        ~80 GB
 
 ### 📸 Kali VM Configuration
 
-![Kali VM Configuration](https://github.com/Kunal-Jain-385/networkwalks-B082-week1-Cybersecurity-lab-setup/blob/main/Kali%20Configs.png)
+![Kali VM Configuration](https://github.com/shivwagh2924/CyberSecurity-Lab-Setup-/blob/main/Kali%20Desktop.png)
+)
 
-![Kali Desktop](https://github.com/Kunal-Jain-385/networkwalks-B082-week1-Cybersecurity-lab-setup/blob/main/Kali%20Desktop.png)
+![Kali Desktop](https://github.com/shivwagh2924/CyberSecurity-Lab-Setup-/blob/main/NAT%20Network.png)
+)
 
 ---
 
@@ -283,7 +285,8 @@ The DNS server observed during this setup was:
 
 ## 📸 Network Configuration
 
-![Kali Network Configuration](https://github.com/Kunal-Jain-385/networkwalks-B082-week1-Cybersecurity-lab-setup/blob/main/Check%20Connectivity.png)
+![Kali Network Configuration](https://github.com/shivwagh2924/CyberSecurity-Lab-Setup-/blob/main/CheckConnection.png)
+)
 
 ---
 
@@ -396,7 +399,8 @@ and network connectivity verified.
 
 ### 📸 Snapshot Configuration
 
-![Kali Snapshot](https://github.com/Kunal-Jain-385/networkwalks-B082-week1-Cybersecurity-lab-setup/blob/main/Lab%20Snapshots.png)
+![Kali Snapshot](https://github.com/shivwagh2924/CyberSecurity-Lab-Setup-/blob/main/Lab%20Snapshot.png)
+)
 
 The snapshot tree should look similar to:
 
