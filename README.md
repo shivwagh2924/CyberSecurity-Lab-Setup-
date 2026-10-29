@@ -113,7 +113,7 @@ DHCP:          Enabled
 
 ### 📸 NAT Network Configuration
 
-![NAT Network Setup](https://github.com/Kunal-Jain-385/networkwalks-B082-week1-Cybersecurity-lab-setup/blob/main/NAT%20Network.png)
+![NAT Network Setup](https://github.com/shivwagh2924/CyberSecurity-Lab-Setup-/blob/main/NAT%20Network.png)
 
 The expected configuration is:
 
